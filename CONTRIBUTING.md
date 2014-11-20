@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# Guidelines
 
 1. Fork this repo to your account
 2. Create a topic branch
